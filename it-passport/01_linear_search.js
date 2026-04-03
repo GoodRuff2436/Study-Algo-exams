@@ -1,1 +1,3 @@
-式 $a$ が $i + 2k$、ループ指定 $b$ が $k: 2, 2, 6$ （2から始まって2ずつ増え、6まで）の場合：スタート： $i = 1$1回目 ($k=2$)： $i + 2k \rightarrow 1 + 2 \times 2 = \mathbf{5}$2回目 ($k=4$)： $i + 2k \rightarrow 5 + 2 \times 4 = \mathbf{13}$3回目 ($k=6$)： $i + 2k \rightarrow 13 + 2 \times 6 = \mathbf{25}$流れ図Yの数値（$1 \rightarrow 5 \rightarrow 13 \rightarrow 25$）
+式 a が i + 2k
+  ループ指定 b が k: 2, 2, 6
+  流れ図Yの数値（1 \rightarrow 5 \rightarrow 13 \rightarrow 25）
