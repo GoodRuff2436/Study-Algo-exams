@@ -12,7 +12,8 @@ data = [5, 3, 8, 4, 2]
     print(f"整列後：{data}")
 
 # バブルソート（令和5年問60）
-# 手続printArrayは，配列integerArrayの要素を並べ替えて出力する。手続printArrayを呼び出したときの出力はどれか。ここで，配列の要素番号は1から始まる。
+# 手続printArrayは，配列integerArrayの要素を並べ替えて出力する。手続printArrayを呼び出したときの出力はどれか。
+# ここで，配列の要素番号は1から始まる。
 
 ○printArray()
 整数型：n, m
